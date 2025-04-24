@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Alice Johnson",
+        "education": "MBBS, MD (Cardiology)",
+        "working": "Greenlife Hospital",
+        "reg": "BD2024-10-12",
+        "fee": "$300",
+        "image": "https://i.ibb.co/DDYk4nFQ/1.jpg",
+        "experience":"7+ year experience"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Michael Lee",
+        "education": "MBBS, MS (Orthopedics)",
+        "working": "Apollo Hospitals",
+        "reg": "BD2024-11-05",
+        "fee": "$250",
+        "image": "https://i.ibb.co/JFdyh0VT/2.jpg",
+        "experience":"9+ year experience"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Sarah Parker",
+        "education": "MBBS, FCPS (Gynecology)",
+        "working": "Square Hospital",
+        "reg": "BD2024-09-30",
+        "fee": "$280",
+        "image": "https://i.ibb.co/svN4BJdJ/3.jpg",
+        "experience":"5+ year experience"
+      },
+      {
+        "id": 4,
+        "name": "Dr. David Kim",
+        "education": "MBBS, MD (Neurology)",
+        "working": "United Hospital",
+        "reg": "BD2024-12-01",
+        "fee": "$320",
+        "image": "https://i.ibb.co/xqjqfqDM/7.jpg",
+        "experience":"4+ year experience"
+      },
+      {
+        "id": 5,
+        "name": "Dr. Emily Brown",
+        "education": "MBBS, MS (ENT)",
+        "working": "Labaid Hospital",
+        "reg": "BD2024-10-20",
+        "fee": "$230",
+        "image": "https://i.ibb.co/KjkwZ7jp/4.jpg",
+        "experience":"6+ year experience"
+      },
+      {
+        "id": 6,
+        "name": "Dr. Robert Davis",
+        "education": "MBBS, MD (Pediatrics)",
+        "working": "Medinova Medical Services",
+        "reg": "BD2024-09-15",
+        "fee": "$270",
+        "image": "https://i.ibb.co/6RD2WfVY/9.jpg",
+        "experience":"8+ year experience"
+      },
+      {
+        "id": 7,
+        "name": "Dr. Jessica Taylor",
+        "education": "MBBS, MS (Ophthalmology)",
+        "working": "Ispahani Islamia Eye Institute",
+        "reg": "BD2024-11-22",
+        "fee": "$220",
+        "image": "https://i.ibb.co/zVZQTCBL/5.jpg",
+        "experience":"3+ year experience"
+      },
+      {
+        "id": 8,
+        "name": "Dr. Daniel Wilson",
+        "education": "MBBS, MD (Dermatology)",
+        "working": "Popular Diagnostic Center",
+        "reg": "BD2024-12-10",
+        "fee": "$210",
+        "image": "https://i.ibb.co/4w5V3vw6/11.jpg",
+        "experience":"4+ year experience"
+      },
+      {
+        "id": 9,
+        "name": "Dr. Olivia Martinez",
+        "education": "MBBS, MD (Nephrology)",
+        "working": "Bangabandhu Sheikh Mujib Medical University",
+        "reg": "BD2024-11-30",
+        "fee": "$340",
+        "image": "https://i.ibb.co/CKJzGmKY/6.jpg",
+        "experience":"5+ year experience"
+      },
+      {
+        "id": 10,
+        "name": "Dr. James Anderson",
+        "education": "MBBS, MS (General Surgery)",
+        "working": "Dhaka Medical College Hospital",
+        "reg": "BD2024-10-08",
+        "fee": "$290",
+        "image": "https://i.ibb.co/V0q8K2YX/10.jpg",
+        "experience":"9+ year experience"
+      },
+      {
+        "id": 11,
+        "name": "Dr. Sophia Moore",
+        "education": "MBBS, MD (Psychiatry)",
+        "working": "National Institute of Mental Health",
+        "reg": "BD2024-09-25",
+        "fee": "$260",
+        "image": "https://i.ibb.co/HTtMjdPV/8.jpg",
+        "experience":"3+ year experience"
+      },
+      {
+        "id": 12,
+        "name": "Dr. William Clark",
+        "education": "MBBS, MS (Urology)",
+        "working": "BIRDEM General Hospital",
+        "reg": "BD2024-12-18",
+        "fee": "$310",
+        "image": "https://i.ibb.co/8DrQpBN2/12.jpg",
+        "experience":"7+ year experience"
+      }
+]

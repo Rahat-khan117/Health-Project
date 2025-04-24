@@ -5,6 +5,7 @@ import MainLayout from "../layout/MainLayout";
 import MyBooking from "../pages/MyBooking";
 import Blogs from "../pages/Blogs";
 import Contact from "../pages/Contact";
+import Details from "../pages/Details";
 
 
 const router = createBrowserRouter([
@@ -25,8 +26,12 @@ const router = createBrowserRouter([
             element:<Blogs></Blogs>
         },
         {
-            path:"Contact",
+            path:"/Contact",
             element:<Contact></Contact>
+        },
+        {
+            path:"/details",
+            element:<Details></Details>
         }
       ]
     }

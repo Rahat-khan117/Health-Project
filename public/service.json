@@ -1,0 +1,22 @@
+[
+    {
+        "image":"https://i.ibb.co/cK02pTqs/success-doctor.png",
+        "number":199,
+        "name":"Total Doctors"
+    },
+    {
+        "image":"https://i.ibb.co/qML8BH0t/success-review.png",
+        "number":467,
+        "name":"Total Reviews"
+    },
+    {
+        "image":"https://i.ibb.co/vCXG3K45/success-patients.png",
+        "number":1900,
+        "name":"Patients"
+    },
+    {
+        "image":"https://i.ibb.co/S46N7q94/success-staffs.png",
+        "number":300,
+        "name":"Total Stuffs"
+    }
+]
