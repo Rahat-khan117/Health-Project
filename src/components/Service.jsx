@@ -13,7 +13,7 @@ const Service = () => {
             <p className='text-sm text-[#0000009e] text-center'>Our platform connects you with verified, experienced doctors across various specialties — all at your convenience. </p>
             <div className='flex gap-9 justify-center mt-4'>
                 {
-                    services.map(service => <ServiceBox service={service}></ServiceBox>)
+                    services.map(service => <ServiceBox key={service.id} service={service}></ServiceBox>)
                 }
             </div>
         </div>

@@ -21,7 +21,7 @@ const DoctorCart = ({doctor}) => {
              <i className="fa-solid fa-registered"></i>
              <p>Reg No:{doctor.reg}</p>
              </div>
-             <Link to="/details">
+             <Link to={`/details/${doctor.id}`}>
              <button className='btn text-[#176AE5] mt-3 ml-7 w-[213px] rounded-2xl border-1 border-[#176AE5] hover:bg-[#176AE5] hover:text-white'>View details</button>
              </Link>
            </div>
