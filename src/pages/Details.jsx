@@ -33,7 +33,7 @@ const Details = () => {
         })
     } 
  },[isClick,machDetails])
-
+console.log(machDetails)
 //  navigate a new page
 const navigate = useNavigate();
 const goToPage = () => {
