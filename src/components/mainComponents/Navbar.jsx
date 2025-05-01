@@ -3,7 +3,7 @@ import { Link, NavLink } from 'react-router';
 
 const NavBar = ({handleMenu}) => {
     return (
-        <div className='bg-[#EFEFEF] h-[70px]'>
+        <div className='bg-[#EFEFEF] h-[70px] z-auto'>
             <div className='container mx-auto px-4 md:px-7 flex items-center justify-between h-full'>
                <div className='flex gap-2 items-center justify-center'>
                 <img src="https://i.ibb.co.com/GvL0WWTY/logo.png" />
