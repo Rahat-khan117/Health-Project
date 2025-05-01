@@ -7,8 +7,8 @@ const Hero = () => {
               <div className='flex flex-col gap-5 items-center px-5 lg:px-14 xl:px-24'>
                  <p className='lg:text-4x md:text-3xl text-[18px] sm:text-2xl font-bold text-center'>Dependable Care, Backed by Trusted <br /> Professionals.</p>
                  <p className='text-center md:text-sm text-[9px]'>Our platform connects you with verified, experienced doctors across various specialties — all at your convenience. Whether it's a routine checkup or urgent consultation, book appointments in minutes and receive quality care you can trust.</p>
-                 <div className='flex items-center gap-3'>
-                    <input className='h-[40px] md:w-[400px] sm:w-[250px] w-[200px] bg-white border-1 border-[#00000063] pl-5 rounded-4xl' type="text" placeholder='search a doctor...' />
+                 <div className='flex items-center gap-2'>
+                    <input className='h-[40px] md:w-[400px] sm:w-[250px] w-[175px] bg-white border-1 border-[#00000063] pl-5 rounded-4xl' type="text" placeholder='search a doctor...' />
                     <button className='btn bg-[#176AE5] sm:text-[18px] text-[12px] rounded-2xl text-white'>Search Now</button>
                  </div>
                  <div className='flex gap-4'>
