@@ -33,7 +33,7 @@ const MyBooking = () => {
         <p className="text-3xl font-bold text-center">
           You have not booked any appointment yet
         </p>
-        <p className="text-[12px] text-[#00000087] text-center mt-4">
+        <p className="text-[12px] text-[#00000087] text-center mt-4 px-2">
           Our platform connects you with verified and experienced doctors across
           various specialties --all at your convenience
         </p>
@@ -51,7 +51,7 @@ const MyBooking = () => {
           Our platform connects you with verified, experienced doctors across
           various specialties — all at your convenience.
         </p>
-        <div className="px-20">
+        <div className="md:px-20 px-3">
           {displayBox.map((doctor) => (
             <ShowBox
               handleDelete={handleDelete}
